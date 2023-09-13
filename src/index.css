@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caladea&family=Hind&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a.active {
+    font-weight: bold;
+}
+
+.text_header {
+    font-family: 'Merriweather', serif;
+}
+.sub_text {
+    font-family: 'Hind', sans-serif;
+}
